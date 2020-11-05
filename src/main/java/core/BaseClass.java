@@ -16,7 +16,7 @@ public class BaseClass {
 	
 	private String propertiesPath = System.getProperty("user.dir");
 	private String ProjectPropertyPath = propertiesPath
-			+ "\\src\\test\\resources\\Properties\\ProjectProperty.properties";
+			+ "\\src/test/resources/Properties/ProjectProperty.properties";
 
 
 	//  Create a constructor method

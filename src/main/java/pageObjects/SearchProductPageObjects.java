@@ -19,8 +19,7 @@ public class SearchProductPageObjects extends BaseClass {
 	private WebElement searchInputKey;
 	
 	
-	@FindBy(how = How.XPATH, using = "//a[@href='https://www.williams-sonoma.com/products/"
-			+ "le-creuset-signature-fry-pan/?pkey=s%7Cfry%20pan%7C333']/span")
+	@FindBy(how = How.XPATH, using = "//a[@href='https://www.williams-sonoma.com/products/calphalon-contemporary-nonstick-fry-pan-set/?pkey=s%7Cfry%20pan%7C266']//span[@class='quicklook-link']")
 	private WebElement clickOnQuicklookLink;
 	
 	

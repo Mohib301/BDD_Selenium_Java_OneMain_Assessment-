@@ -1,2 +1,4 @@
-utilities\ScreenShotUtility.class
+pageObjects\SearchProductPageObjects.class
 core\BaseClass.class
+utilities\ScreenShotsUtility.class
+pageObjects\ProductPageObjects.class
